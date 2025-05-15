@@ -16,6 +16,4 @@
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/flries/) 
 [![GitHub Badge](https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=fff&style=for-the-badge)](https://github.com/flries) 
 [![YouTube Badge](https://img.shields.io/badge/YouTube-F00?logo=youtube&logoColor=fff&style=for-the-badge)](https://www.youtube.com/@flries) 
-[![Facebook Badge](https://img.shields.io/badge/Facebook-0866FF?logo=facebook&logoColor=fff&style=for-the-badge)](https://www.facebook.com/flries/) 
-[![Instagram Badge](https://img.shields.io/badge/Instagram-FF0069?logo=instagram&logoColor=fff&style=for-the-badge)](https://www.instagram.com/417.89) 
 [![X](https://img.shields.io/badge/X-%23000000.svg?style=for-the-badge&logo=X&logoColor=white)](https://x.com/flries_)
