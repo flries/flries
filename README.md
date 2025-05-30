@@ -8,7 +8,6 @@
 - 📄 Being a member of the Information Security Laboratory.
 - 🔐 Majoring in Classical Cryptography and Quantum Cryptography.
 - 💻 Learning Web Development, Machine Learning and Systems Design.
-- 🚀 Improving my skills through online courses and personal projects.
 ```
 
 ### 🧷 𝘙𝘦𝘢𝘤𝘩 𝘔𝘦
