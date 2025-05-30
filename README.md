@@ -5,8 +5,11 @@
 ### 🌱 𝘈𝘣𝘰𝘶𝘵 𝘔𝘦
 ```
 - 🎓 Studying Computer Science at National Chung Hsing University.
+
 - 📄 Being a member of the Information Security Laboratory.
+
 - 🔐 Majoring in Classical Cryptography and Quantum Cryptography.
+
 - 💻 Learning Web Development, Machine Learning and Systems Design.
 ```
 
